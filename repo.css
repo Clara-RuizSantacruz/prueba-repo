@@ -1,3 +1,16 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
 .title{
     color: pink;
+    font-size:xx-large;
+    font-style: oblique;
+}
+
+.team-photo{
+    width: 600px;
+    height: 150px;
 }
